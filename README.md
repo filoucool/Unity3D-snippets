@@ -1,6 +1,6 @@
 <H1> Exemples de codes et projets pour Unity3D </H1>
 
-<P> Voici une librairie de code en Python. Cette librairie est 100% gratuite et ouverte à tous. <BR>
+<P> Voici une librairie de code en C/C#/PHP/SQL/Python/etc pour Unity3D. Cette librairie est 100% gratuite et ouverte à tous. <BR>
  
 
 </P>
